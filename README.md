@@ -1,6 +1,10 @@
+# 👋 Hola, soy Alan
+
+Soy Analista de Datos especializado en Business Intelligence, con una sólida formación en Comercio Internacional y una mentalidad orientada a decisiones basadas en datos. Ayudo a PyMEs a transformar datos en decisiones estratégicas claras mediante dashboards e informes personalizados. Soy graduado del bootcamp de Ciencia de Datos de Henry y tengo certificaciones en Power BI y Excel avanzado. Tengo inglés avanzado y experiencia en proyectos reales enfocados en mejorar el rendimiento de negocios, especialmente en retail y e-commerce. Mi objetivo es aportar claridad y valor a través de los datos.
+
 # 👋 Hi, I'm Alan
 
-I am a Data Scientist and Business Intelligence professional with expertise in leveraging AI, Computer Vision, and Generative AI to drive data-driven decisions and strategic insights. I develop analytical solutions that transform complex data into actionable business value. Explore my projects and learn more about my approach and experience on my personal website.
+Hi! I'm a Data Analyst specialized in Business Intelligence, with a strong foundation in International Trade and a data-driven mindset. I help small and medium businesses turn raw data into clear, strategic decisions through dashboards and custom reports. I graduated from a Data Science bootcamp at Henry and hold certifications in Power BI and Advanced Excel. I'm fluent in English and experienced in real-world projects focused on improving business performance, especially in retail and e-commerce. My goal is to bring clarity and value through data.
 
 ## 🔧Technologies I Work With
 
