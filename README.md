@@ -22,18 +22,18 @@ Hi! I'm a Data Analyst specialized in Business Intelligence, with a strong found
 
 
 
-## Proyectos Destacados 🚀
+## 🚀 Proyectos Destacados/ Featured Projects
 
 - [Proyecto 1](https://github.com/alanguev1/Renta-per-c-pita-y-Esperanza-de-vida): Renta per capita y Esperanza de vida.
 - [Proyecto 2](https://github.com/alanguev1/proyecto-individual-2): Análisis de siniestros viales.
 - [Proyecto 3](https://github.com/alanguev1/proyecto-final): Proyecto final data science Henry.
 
-## Contacto 📫
+## 📫 Contacto / Contact
 
-¡Estoy emocionado por colaborar en proyectos interesantes! No dudes en contactarme:
+No dudes en contactarme:
 
 - [LinkedIn](https://www.linkedin.com/in/alanguev1/)
 - [Correo Electrónico](alanguevara409@gmail.com)
 
-¡Gracias por visitar mi perfil!
+
 
