@@ -6,6 +6,8 @@ I am a Data Scientist and Business Intelligence professional with expertise in l
 
 ### ⚙️ Technologies & Skills
 
+### ⚙️ Technologies & Skills
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> Python &nbsp;|&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="30" height="30"/> SQL &nbsp;|&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="30" height="30"/> Pandas &nbsp;|&nbsp;
@@ -13,10 +15,8 @@ I am a Data Scientist and Business Intelligence professional with expertise in l
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="30" height="30"/> Seaborn &nbsp;|&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="30" height="30"/>
 
-<br>
-
-- Exploratory Data Analysis (EDA)  
-- Data Visualization  
+- Exploratory Data Analysis (EDA)
+- Data Visualization
 - Statistical Modeling
 
 
