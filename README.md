@@ -22,7 +22,7 @@ Hi! I'm a Data Analyst specialized in Business Intelligence, with a strong found
 
 
 
-## 🚀 Proyectos Destacados/ Featured Projects
+## 🚀 Proyectos Destacados / Featured Projects
 
 - [Proyecto 1](https://github.com/alanguev1/Renta-per-c-pita-y-Esperanza-de-vida): Renta per capita y Esperanza de vida.
 - [Proyecto 2](https://github.com/alanguev1/proyecto-individual-2): Análisis de siniestros viales.
