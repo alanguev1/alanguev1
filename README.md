@@ -1,6 +1,6 @@
-# ¡Hola! Soy Alan 👋
+# 👋 Hi, I'm Alan
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado del análisis de datos con experiencia en Python y SQL. Me encanta explorar conjuntos de datos, descubrir patrones y contar historias a través de la visualización de datos.
+I am a Data Scientist and Business Intelligence professional with expertise in leveraging AI, Computer Vision, and Generative AI to drive data-driven decisions and strategic insights. I develop analytical solutions that transform complex data into actionable business value. Explore my projects and learn more about my approach and experience on my personal website.
 
 ## Habilidades y Herramientas 🔧
 
